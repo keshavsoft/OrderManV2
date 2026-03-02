@@ -1,0 +1,8 @@
+POST http://localhost:3000/V2/LedgerNames/Pipe_28Feb2026
+Content-Type: application/json
+
+{
+  "LedgerName": "",
+  "LedgerParentName": "",
+  "LedgerType": ""
+}
